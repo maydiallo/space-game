@@ -13,8 +13,11 @@ The Ship must reach the end of the line first while taking down as much competin
 
 ## Rules of the game
 • You can only navigate left or right.
+
 • Attacking is permitted, this can only be done when you are behind a competing ship.
+
 • You have 3 lives.
+
 
 ## Win condition
 
