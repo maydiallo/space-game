@@ -5,7 +5,9 @@ competing ship, it is one step closer to its destination if a competing ship pas
 may never reach its destination.
 
 Game rules and conditions
+
 Objective of the game
+
 The Ship must reach the end of the line first while taking down as much competing ships as it can.
 
 Rules of the game
@@ -14,7 +16,8 @@ Rules of the game
 • You have 3 lives.
 
 Win condition
+
 When the Ship reaches the end of the line first.
+
 Lose condition: 
-When the ship does not reach the end of the line first or when the ship has been shot down before 
-the end of the line.
+When the ship does not reach the end of the line first or when the ship has been shot down before the end of the line.
